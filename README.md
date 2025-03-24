@@ -16,7 +16,7 @@ Este repositório é um projeto baseado em Docker e microsserviços, aprimorado 
 
 1. **Clone este repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/docker-microservices-app.git
+    git clone https://github.com/newtonfalbo/docker-microservices-app.git
     cd docker-microservices-app
     ```
 
